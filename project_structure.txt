@@ -1,0 +1,35 @@
+.
+├──  config.yaml
+├── .idea
+│   ├── .gitignore
+│   ├── inspectionProfiles
+│   │   └── profiles_settings.xml
+│   ├── misc.xml
+│   ├── modules.xml
+│   ├── pytest.iml
+│   └── workspace.xml
+├── .pytest_cache
+│   ├── .gitignore
+│   ├── CACHEDIR.TAG
+│   ├── README.md
+│   └── v
+│       └── cache
+│           ├── lastfailed
+│           ├── nodeids
+│           └── stepwise
+├── README.md
+├── config.py
+├── project_structure.txt
+├── pytest.ini
+├── requirements.txt
+└── tests
+    ├── social
+    │   └── module1
+    │       ├── test_module1_case1.py
+    │       └── test_module1_case2.py
+    └── transaction
+        └── module1
+            ├── test_module1_case1.py
+            └── test_module1_case2.py
+
+11 directories, 22 files

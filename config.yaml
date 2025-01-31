@@ -1,0 +1,12 @@
+environments:
+  test:
+    transaction_domain: "https://test-transaction.example.com"
+    social_domain: "https://test-social.example.com"
+  staging:
+    transaction_domain: "https://staging-transaction.example.com"
+    social_domain: "https://staging-social.example.com"
+  production:
+    transaction_domain: "https://transaction.example.com"
+    social_domain: "https://social.example.com"
+
+default_environment: "test"
